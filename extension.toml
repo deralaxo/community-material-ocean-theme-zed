@@ -1,0 +1,7 @@
+id = "community-material-ocean-theme-zed"
+name = "Community Material Ocean Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["deralaxo <dawidharat03@gmail.com>"]
+description = "Community Material Ocean Theme"
+repository = "https://github.com/deralaxo/community-material-ocean-theme-zed"
