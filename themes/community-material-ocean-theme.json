@@ -200,8 +200,8 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#C792EA",
-            "font_style": "italic",
+            "color": "#82AAFF",
+            "font_style": null,
             "font_weight": null
           },
           "emphasis": {
@@ -321,6 +321,11 @@
           },
           "type": {
             "color": "#FFCB6B",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.class": {
+            "color": "#82AAFF",
             "font_style": null,
             "font_weight": null
           },
@@ -492,6 +497,11 @@
           },
           "keyword.import": {
             "color": "#89DDFF",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "keyword.declaration": {
+            "color": "#C792EA",
             "font_style": "italic",
             "font_weight": null
           },
