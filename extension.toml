@@ -1,7 +1,7 @@
 id = "community-material-ocean-theme-zed"
 name = "Community Material Ocean Theme"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["deralaxo <dawidharat03@gmail.com>"]
-description = "Community Material Ocean Theme"
+description = "This theme works best with Zed Enhanced Typescript Highlighting extension"
 repository = "https://github.com/deralaxo/community-material-ocean-theme-zed"

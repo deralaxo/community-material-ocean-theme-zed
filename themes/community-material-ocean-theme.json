@@ -245,7 +245,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#89DDFF",
+            "color": "#C792EA",
             "font_style": null,
             "font_weight": null
           },
@@ -275,6 +275,11 @@
             "font_weight": null
           },
           "punctuation.special": {
+            "color": "#C792EA",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.interpolation": {
             "color": "#89DDFF",
             "font_style": null,
             "font_weight": null
@@ -325,7 +330,7 @@
             "font_weight": null
           },
           "type.class": {
-            "color": "#82AAFF",
+            "color": "#FFCB6B",
             "font_style": null,
             "font_weight": null
           },
@@ -465,7 +470,7 @@
             "font_weight": null
           },
           "keyword.coroutine": {
-            "color": "#C792EA",
+            "color": "#89DDFF",
             "font_style": "italic",
             "font_weight": null
           },
@@ -510,13 +515,23 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "keyword.accessor": {
+            "color": "#C792EA",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "keyword.module": {
+            "color": "#C792EA",
+            "font_style": "italic",
+            "font_weight": null
+          },
           "keyword.modifier": {
             "color": "#C792EA",
             "font_style": "italic",
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#89DDFF",
+            "color": "#C792EA",
             "font_style": null,
             "font_weight": null
           },
@@ -571,7 +586,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#B2CCD6",
+            "color": "#8F93A2",
             "font_style": null,
             "font_weight": null
           },
@@ -641,7 +656,7 @@
             "font_weight": null
           },
           "type.super": {
-            "color": "#FFCB6B",
+            "color": "#C3E88D",
             "font_style": null,
             "font_weight": null
           },
