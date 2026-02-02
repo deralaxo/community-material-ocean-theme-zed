@@ -17,8 +17,8 @@
           "#FF537066"
         ],
         "background.appearance": "opaque",
-        "border": "#0F111A60",
-        "border.variant": "#0F111A60",
+        "border": "#1E212B",
+        "border.variant": "#1E212B",
         "border.focused": "#80CBC450",
         "border.selected": "#0F111A60",
         "border.transparent": "#0F111A00",
